@@ -19,7 +19,7 @@
 class Translation:
     START_TEXT = (
         "Hi!\n"
-        "please read the TnC before proceeding: https://t.me/SpEcHlDe/889\n"
+        "please read the TnC before proceeding: https://t.me/MyTeleOrg_Bot/3\n"
         "Thank you for using me 😬\n"
         "Enter your Telegram Phone Number, "
         "to get the APP-ID from my.telegram.org\n\n"
